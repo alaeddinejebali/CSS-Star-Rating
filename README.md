@@ -1,4 +1,4 @@
-# Five star rating component
+# Five star ratings component
 ![alt text](demo.png "Demo image")
 
 
