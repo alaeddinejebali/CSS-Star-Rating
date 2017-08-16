@@ -1,5 +1,5 @@
 # Five star ratings component
-![alt text](demo.png "Demo image")
+<center>![alt text](demo.png "Demo image")</center>
 
 
 ## Using only CSS to build the component
